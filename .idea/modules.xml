@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///Volumes/DATA/Users/mwirfs/Desktop/ChicagoBulls/ChicagoBulls.iml" filepath="/Volumes/DATA/Users/mwirfs/Desktop/ChicagoBulls/ChicagoBulls.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/mwirfs/Desktop/ChicagoBulls/app/app.iml" filepath="/Volumes/DATA/Users/mwirfs/Desktop/ChicagoBulls/app/app.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/mwirfs/Desktop/ChicagoBulls/stats/stats.iml" filepath="/Volumes/DATA/Users/mwirfs/Desktop/ChicagoBulls/stats/stats.iml" />
+    </modules>
+  </component>
+</project>
